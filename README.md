@@ -1,7 +1,7 @@
 # PythonAPI
 Python API with Flask for token system
 
-# Device Registry Service
+# Token Registry Service
 
 ## Usage
 
